@@ -1,7 +1,6 @@
-package com.bravolt
+package com.folbrecht
 
 import java.text.SimpleDateFormat
-
 import org.scalatest.flatspec._
 
 class HotelSpec extends AnyFlatSpec {
